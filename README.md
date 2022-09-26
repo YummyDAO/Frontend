@@ -166,6 +166,8 @@ yarn build
 
 You'll find the output in `packages/dev-frontend/build`.
 
+For any issues raise a PR
+
 ### Configuring your custom Dev UI
 
 Your custom built Dev UI can be configured by putting a file named `config.json` inside the same directory as `index.html` built in the previous step. The format of this file is:
@@ -176,5 +178,6 @@ Your custom built Dev UI can be configured by putting a file named `config.json`
   "infuraApiKey": "158b6511a5c74d1ac028a8a2afe8f626"
 }
 ```
-#   F r o n t e n d  
- 
+#� �F�r�o�n�t�e�n�d�
+�
+�
